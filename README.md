@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Not a Minimal Starter for Storybook for Nuxt Project
 
 Look at the [Storybook Nuxt package](https://github.com/storybook-vue/storybook-nuxt) 
 
