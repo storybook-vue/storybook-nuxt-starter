@@ -16,7 +16,7 @@
     "@nuxt/image": "rc",
     "@nuxtjs/i18n": "8.0.0-rc.2",
     "@pinia/nuxt": "^0.4.11",
-    "@storybook-nuxt/framework": "0.0.2-beta.4",
+    "@storybook-vue/nuxt": "0.0.2-beta.4",
     "@storybook/addon-essentials": "^7.2.3",
     "@storybook/addon-interactions": "^7.2.3",
     "@storybook/builder-vite": "^7.2.3",
