@@ -12,7 +12,6 @@
   },
   "devDependencies": {
     "@invictus.codes/nuxt-vuetify": "^0.3.0",
-    "@nuxt/devtools": "latest",
     "@nuxt/image": "rc",
     "@nuxt/ui": "^0.4.1",
     "@nuxtjs/i18n": "8.0.0-rc.2",
