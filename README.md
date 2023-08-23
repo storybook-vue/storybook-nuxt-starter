@@ -1,63 +1,35 @@
-# Nuxt 3 Minimal Starter
+# Not a Minimal Starter for Storybook for Nuxt Project
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [Storybook Nuxt package](https://github.com/storybook-vue/storybook-nuxt) 
 
-## Setup
+## Setup and configuration 
 
-Make sure to install the dependencies:
+This demo contains:
 
-```bash
-# npm
-npm install
+- 🌐 Global components : NuxtLink, NuxtWelcome, NuxtLayout ...  bref you can use them all
+  
+- 💻 Modules : @nuxt/ui , i18n, @nuxt/image, pinia, nuxt-vuetify ... bref you can add any module
+  
+- 🚘 Autoimports :( components, composables ... bref you can add your own.
+  
+- 📃 Pages :( Nuxt full pages example, ... bref you know what you should do.
 
-# pnpm
-pnpm install
 
-# yarn
-yarn install
-```
+I thought for moment about creating a clear document for users to get this working.
 
-## Development Server
+### Bref run 
 
-Start the development server on `http://localhost:3000`:
+`pnpm i & pnpm storybook`
 
-```bash
-# npm
-npm run dev
 
-# pnpm
-pnpm run dev
+### NB: 
+- this repo uses a fork for `@storybook/vue3` to enable early testing for users utill my PR got merged
+  
+- if you have your existing nuxt project run `npx storybook-nuxt init` to install,config and run storybook
 
-# yarn
-yarn dev
-```
+GOOD LUCK 🤎
 
-## Production
 
-Build the application for production:
+   
 
-```bash
-# npm
-npm run build
 
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
