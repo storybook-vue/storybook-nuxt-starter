@@ -1,6 +1,6 @@
 # Not a Minimal Starter for Storybook for Nuxt Project
 
-Look at the [Storybook Nuxt package](https://github.com/storybook-vue/storybook-nuxt) 
+check [Storybook Nuxt preset package](https://github.com/storybook-vue/storybook-nuxt) 
 
 ## Setup and configuration 
 
