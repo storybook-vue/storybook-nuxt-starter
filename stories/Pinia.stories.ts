@@ -21,5 +21,5 @@ type Story = StoryObj<typeof meta>
  */
 
 export const Pinia: Story = {
-  args: { msg: 'Storybook ❤️‍🔥 Nuxt ❤️‍🔥 Pinia' },
+  args: { msg: 'Storybook ❤️ Nuxt ❤️ Pinia' },
 }
