@@ -21,7 +21,7 @@
     "@storybook/addon-interactions": "7.5.3",
     "@storybook/builder-vite": "7.5.3",
     "@storybook/testing-library": "^0.2.0",
-    "@storybook/vue3": "7.5.0-alpha.3",
+    "@storybook/vue3": "7.5.3",
     "@storybook/vue3-vite": "7.5.3",
     "@types/node": "^18.17.8",
     "nuxt": "^3.8.1",
